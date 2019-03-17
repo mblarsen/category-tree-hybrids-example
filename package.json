@@ -1,0 +1,19 @@
+{
+  "name": "category-tree-hybrids-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel serve index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hybrids": "^2.0.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "parcel": "*"
+  }
+}
